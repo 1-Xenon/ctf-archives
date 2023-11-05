@@ -21,3 +21,9 @@ After:
 
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/6d1e86a2-76d1-4748-8f8f-70529de499ce)
 
+And that is how we get the flag
+![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/f3210e88-2e8f-44fe-95f0-645563f709e3)
+
+```bash
+hli{0NE_wHO_hAs_A_PromOc0dE_rUle5_TH3_w0rld}
+```
