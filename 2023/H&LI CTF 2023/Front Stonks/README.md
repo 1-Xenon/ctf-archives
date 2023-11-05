@@ -14,6 +14,7 @@ We also see that we have a balance of $10 currently and when we try to click on 
 While at the checkout area, we tried to change the price of the flag through HTML so that it cost below $10
 
 Before:
+
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/fce09518-58c1-4b19-ad10-d263f8bbc0b9)
 
 After:
