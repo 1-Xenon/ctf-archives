@@ -1,4 +1,4 @@
-# Front Stonks (Web)
+# fStore: Upgrade (Web)
 4 years later
 
 Flag 15 Pro. Underscored. So long. So leet. So Pro.
