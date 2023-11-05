@@ -15,8 +15,8 @@ While at the checkout area, we tried to change the price of the flag through HTM
 
 Before:
 
-![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/fce09518-58c1-4b19-ad10-d263f8bbc0b9 =250x250)
-
+![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/fce09518-58c1-4b19-ad10-d263f8bbc0b9)
+<img src="https://github.com/1-Xenon/ctf-archives/assets/110148117/fce09518-58c1-4b19-ad10-d263f8bbc0b" width="250" height="250">
 After:
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/6d1e86a2-76d1-4748-8f8f-70529de499ce)
 
