@@ -13,6 +13,7 @@ I then clicked on login and found that it had worked and the following message a
 ```"Login Successful, This is your key: E9bYhRnW9P5QRtEdwsv15pJX"```
 
 Hmm, a key. Wonder what that is for. This is the point where I was stuck for a while as I did not how I should be utilising this key to get the flag. I then remembered that I could use robots.txt to check if there are any other pages I could navigate to. I went to the file and found the following
+
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/51c13d55-f41f-45ec-8304-9f41d5d6d06a)
 
 So there is an admin page that exists after all, I then navigated to the admin page and was greeted with the following
