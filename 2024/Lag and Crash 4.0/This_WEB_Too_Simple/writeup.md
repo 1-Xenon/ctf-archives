@@ -29,6 +29,7 @@ This is when the key that we have received from the login comes in. For JWT Toke
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/68098b04-ac2c-4215-a3ed-f35e2391e217)
 
 Now that we have our new token, we will replace it with the old one and then try to access the admin page again and tada, we got the flag now.
+
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/6f833aec-d363-41cb-b15b-4b277dc1f425)
 
 ```LNC24{5imp1e_Bu7_N0t_Simpl3}```
