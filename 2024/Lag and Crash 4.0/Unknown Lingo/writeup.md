@@ -5,3 +5,7 @@
 Let's first open up the file that is provided within the challenge
 
 ```D'`r_?o~IlY{EDCvR32saM(o]+kkY43f1{@?-a`<)sKwvuWVrk1ohmf,jchgfed]#D`_XW{[ZSXWVOsSR43OHl/.Dh+*FE>b%;@?8\}54321U54ts10)M',%*#('~D$#"!~}v^tsr8YXtmrk1onmlNMib(I_^cb[!_^W?[TSRWPt7SLQPIHlLKDCg*)E>bB$:?8=6Z:9yx6/Sts10)M'm+$H('gf${"!x>v{zsxq7uWsrqpi/POkdcha'_dc\[Z~^@?UTSw:VUTMq4JIm0LKDhH*)E>bB;#9]=}5Yz810/S-,+0/('&J*j(!Efe#z@~`_uzs9wvXWm3~```
+
+My first reaction? Bunch of random characters forming up an alien language 🤣. But, the challenge description did mention the term "estoeric language", so let's find out what it really means
+
+According to esolangs.org, "An esoteric programming language, or esolang, is a computer programming language designed to experiment with weird ideas, to be hard to program in, or as a joke, rather than for practical use."
