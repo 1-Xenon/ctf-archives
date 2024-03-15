@@ -8,4 +8,6 @@ Let's first open up the file that is provided within the challenge
 
 My first reaction? Bunch of random characters forming up an alien language 🤣. But, the challenge description did mention the term "estoeric language", so let's find out what it really means
 
-According to esolangs.org, "An esoteric programming language, or esolang, is a computer programming language designed to experiment with weird ideas, to be hard to program in, or as a joke, rather than for practical use."
+According to esolangs.org, "An esoteric programming language, or esolang, is a computer programming language designed to experiment with weird ideas, to be hard to program in, or as a joke, rather than for practical use." This is the point where I had to make educated guesses with the language that was used for this text. After scrolling through the common esoteric languages, I found that the language that was used is Malbolge and from this Malbolge <a href="https://www.tutorialspoint.com/execute_malbolge_online.php">compiler </a> that i found, the flag was decoded and found
+
+```LNC24{wH4t_pR0gR4mM1ng_L4ngUaNg3_1S_th15?}```
