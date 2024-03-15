@@ -6,7 +6,6 @@ Challenges Solved:
 Links to the writeups:
 
 <a href="https://github.com/1-Xenon/ctf-archives/blob/main/2024/Lag%20and%20Crash%204.0/This_WEB_Too_Simple/writeup.md"> This_WEB_Too_Simple </a>
-
 <a href="https://github.com/1-Xenon/ctf-archives/blob/main/2024/Lag%20and%20Crash%204.0/Audiophile/writeup.md"> Audiophile </a>
 
 <a href="https://github.com/1-Xenon/ctf-archives/blob/main/2024/Lag%20and%20Crash%204.0/Unknown%20Lingo/writeup.md"> Unknown Lingo </a>
