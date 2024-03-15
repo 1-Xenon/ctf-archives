@@ -22,4 +22,5 @@ I then came across this <a href="https://github.com/ragibson/Steganography#WavSt
 ![image](https://github.com/1-Xenon/ctf-archives/assets/110148117/a656160a-c795-4e38-9662-5d666cc06c0e)
 
 Second part of the flag: ```_15_fun}```
+
 ```Flag: LNC24{4ud10_5t3ng0_15_fun}```
